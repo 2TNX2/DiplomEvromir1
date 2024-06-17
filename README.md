@@ -1,0 +1,2 @@
+# DiplomEvromir1
+norm
